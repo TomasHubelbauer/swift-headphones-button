@@ -2,14 +2,8 @@
 
 > Development plan
 
-## Running
+## Test the headphones button handler
 
-`open src/SwiftHeadphonesButton.xcworkspace`.
+[Implementation](https://stackoverflow.com/a/15425324/2715716)
 
-## Contributing
-
-See [development plan](doc/tasks.md).
-
-## Studying
-
-See [development log](doc/notes.md).
+## Renew Apple development license and switch team

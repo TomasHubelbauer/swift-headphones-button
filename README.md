@@ -1,3 +1,13 @@
 # Swift Headphones Button
 
-[Implementation](https://stackoverflow.com/a/15425324/2715716)
+## Running
+
+`open src/SwiftHeadphonesButton/SwiftHeadphonesButton/project.xcworkspace`.
+
+## Contributing
+
+See [development plan](doc/tasks.md).
+
+## Studying
+
+See [development log](doc/notes.md).
